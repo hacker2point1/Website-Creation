@@ -1,0 +1,73 @@
+html , body {
+    height: 100%;
+    width: 100%;
+}
+
+/* 
+
+#box{
+    height:300px;
+    width: 300px;
+    background-color: brown;
+}
+#inner{
+    height: 50vh;
+    width: 50vw;
+    background-color: aqua;
+    border: 2px;
+}
+
+#parent{
+    background-color: lightblue;
+    width: 50%;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif ;
+}
+h1{
+    font-size: 2rem;
+}
+h2{
+    font-size: 2rem;
+}
+h3{
+    font-size: 1.5rem;
+} */
+
+/* .parent {
+    height: 100%;
+    width: 100%;
+    background-color: rgb(165, 205, 191);
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    /* flex-wrap: wrap; */
+    /* flex-direction: column; */
+/* }  */
+/* .child1 {
+    height: 150px;
+    width: 150px;
+    background-color: black ;
+    border: 2px solid crimson;
+} */
+
+/* .child2 {
+    height: 150px;
+    width: 150px;
+    background-color: blueviolet ;
+    border: 2px solid crimson;
+} */
+
+/* .box */
+/* {
+    height: 200px;
+    width: 150px;
+    border: 2px solid #000;
+    background-color: crimson;
+}
+
+@media (max-width: 600px) {
+    .box {
+        background-color: rgb(42, 55, 153) ;
+        border-radius: 50%;
+    }
+} */
